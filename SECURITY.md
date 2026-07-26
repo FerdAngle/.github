@@ -1,21 +1,7 @@
 # Security Policy
 
-## Supported Versions
+Due to the client sided nature of the macro, it's unlikely that there would be any vulnerabilities aside from the updating process where an internet connection is ran but even then, its much more likely that
+github itself was compromised rather than the macro. But nonetheless, if anyone finds a vulnerability please report it within this [form][security-form-link] 
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+[security-form-link]: https://github.com/FerdAngle/NetanMastersYu/security/advisories
